@@ -10,8 +10,7 @@ on:
         description: 'SSH connection to Actions'
         required: false
         default: 'false'
-#  schedule:
-#    - cron: 0 8 * * 5
+
 
 env:
   FEEDS_CONF: feeds.conf.default
